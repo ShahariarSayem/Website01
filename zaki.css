@@ -1,0 +1,103 @@
+#span69{
+    color: red;
+}
+
+.intro-zaki{
+    display: block;
+    width: 100%;
+    padding: 10px 0px;
+    background-color: #ebf4fa;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#zakimg{
+    size: 80px;
+    height: auto;
+    width: 555px;
+    padding: 5%;
+    padding-right: 0%;
+    margin-left: 8%;
+}
+
+.text-zaki{
+    width: 500px;
+    font-size: large;
+    font-family: 'Nunito', sans-serif;
+    margin: auto;
+    margin-left: 1px;
+    padding-left: auto;
+    margin-right: 8%;
+}
+
+.main-zaki{
+    display: flex;
+    justify-content: space-around;
+}
+
+#zakiahmed{
+    font-size: 60px;
+    padding: 0px;
+    margin: auto;
+    font-family: 'Koulen', sans-serif;
+}
+
+h5{
+    font-size: 20px;
+    margin: auto;
+    margin-top: 7%;
+}
+
+.learn-more{
+    margin-top: 50px;
+    width: fit-content;
+    padding-top: 1.4%;
+    padding-bottom: 1.2%;
+    padding-left: 6%;
+    padding-right: 6%;
+    font-size: 1.3rem;
+    border-radius: 2.5rem;
+    background-color: #e7762b;
+    color: #ffffff;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+.learn-more:hover, .learn-more:focus {
+    background-color: #ed4245;
+    transition-duration: .25s;
+    color: black;
+}
+
+#eee{
+    text-align: justify;
+    font-family: 'Roboto Mono', monospace;
+}
+
+nav{
+    font-size: 14px;
+    display: flex;
+    align-items: left;
+    justify-content: space-between;
+    padding-top: 10px;
+    margin: auto;
+    font-family: 'Roboto Mono', monospace;
+    cursor: pointer;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+    color: red;
+    transition: 00.3s;
+}

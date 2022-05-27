@@ -1,0 +1,202 @@
+/*
+1rem = 16px
+*/
+img{
+
+    padding-top: 4rem;
+    height: 500px;
+
+}
+
+#circle {
+    margin: 50%;
+    margin-top: 75%;
+    height: 250px;
+    width: 250px;
+    border-style: solid;
+    border-width: 40px;
+    background-color: transparent;
+    border-radius: 200px;
+    border-color: #ffad5a;
+    z-index: 9;
+    display: block;
+
+}
+#shahariar-img-con {
+
+    margin-right: 5%;
+
+}
+
+#ishraq {
+    background-color: #fae9ec;
+    margin-top: auto;
+    padding: 1px;
+}
+
+#tj-img{
+
+    margin-left: 12rem;
+}
+
+#shahariar{
+
+    margin-right: 6%;
+    margin-bottom: -8%;
+}
+
+#shahariar-content{
+
+    margin-right: 15%;
+    margin-left: 3.5rem;
+
+}
+
+#duraken-img{
+
+    padding: 0;
+    display:block;
+    position: absolute;
+    
+}
+
+.flex-container {
+
+    display: flex;
+    margin-top: 3rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    padding: 2%, 2%;
+    padding-left: 2%;
+    padding-bottom: 3rem;
+
+}
+
+.content, .ishraq-content {
+
+    margin-top: 4rem;
+    padding-left: 8%;
+    margin-right: 6rem;
+}
+.ishraq-content {
+    
+    padding-left: .3%;
+    margin-left: 11%;
+
+}
+
+.line {
+    background-color: orange;
+    height: 118px;
+    width: 6px;
+    margin: auto;
+    margin-top: 3.4rem;
+    min-width: 6px;
+    border-top-left-radius:5px;
+    border-bottom-left-radius: 5px;
+    margin-left: -10px;
+    position: absolute;
+
+}
+
+#tj-content{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+#badur{
+
+    margin-top: 1%;
+    margin-right: 8%;
+}
+
+h1 {
+
+    font-size: 4rem;
+    margin-bottom: 2rem;
+    font-family: 'Koulen', sans-serif;
+    line-height: 4rem;
+    letter-spacing: .1rem;
+}
+
+p {
+
+    color: #353333;
+    margin-top: 15px;
+    padding-top: 1.2%;
+    font-size: 1.4rem;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+.btn{
+
+    margin-top: 5px;
+    width: fit-content;
+    padding-top: .7rem;
+    padding-bottom: .7rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    font-size: 1.5rem;
+    border-radius: 2.5rem;
+    background-color: #e7762b;
+    color: #ffffff;
+    border-color: transparent;
+    transition-duration: .25s;
+    cursor: pointer;
+
+} 
+
+.btn:hover, .btn:focus {
+
+    background-color: #ed4245;
+    transition-duration: .25s;
+    cursor: pointer;
+}
+
+#footer {
+
+    background-color: black;
+    color: #ffffff;
+
+}
+#footer-content {
+
+    font: 10rem;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 2.5rem;
+    padding-bottom: 4rem;
+    margin-bottom: auto;
+    font-family: 'Kanit', sans-serif;
+    line-height: 2rem;
+    margin-left: 6%;
+}
+body{
+
+    margin: auto;
+}
+span{
+    color: #ed4245;
+}
+
+
+.ishraqnav{
+    color:black ;
+    padding-right: 40%;
+    padding-bottom: 3%;
+}
+.ishraqbutton{
+    color: palevioletred;
+    padding-left: 10%;
+}
+
+#header{
+
+    background-color: #fae9ec;
+    color: white;
+    margin: auto;
+    padding: 1rem;
+    text-align: center;
+
+}
