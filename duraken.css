@@ -67,12 +67,19 @@ body {
     font-size: 6rem;
     padding-top: 1.5%;
     padding-bottom: 2%;
+
 }
 
-html {
-
-    width: 1920px;
+section {
+    
+    width: 1910px;
+    min-width: 1900px;
+    max-width: 1920px;
     height: fit-content;
-
 }
 
+.bgcolors {
+
+    width: 100%;
+
+}

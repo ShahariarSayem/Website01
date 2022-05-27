@@ -1,4 +1,4 @@
-#span69{
+#span69 {
     color: red;
 }
 
@@ -6,12 +6,17 @@
     display: block;
     width: 100%;
     padding: 10px 0px;
-    background-color: #ebf4fa;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
-#zakimg{
+#zaki-bg {
+
+    background-color: #ebf4fa;
+
+}
+
+#zakimg {
     size: 80px;
     height: auto;
     width: 555px;
@@ -30,25 +35,25 @@
     margin-right: 8%;
 }
 
-.main-zaki{
+.main-zaki {
     display: flex;
     justify-content: space-around;
 }
 
-#zakiahmed{
+#zakiahmed {
     font-size: 60px;
     padding: 0px;
     margin: auto;
     font-family: 'Koulen', sans-serif;
 }
 
-h5{
+h5 {
     font-size: 20px;
     margin: auto;
     margin-top: 7%;
 }
 
-.learn-more{
+.learn-more {
     margin-top: 50px;
     width: fit-content;
     padding-top: 1.4%;

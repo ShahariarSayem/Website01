@@ -22,16 +22,23 @@ img{
     display: block;
 
 }
+
 #shahariar-img-con {
 
     margin-right: 5%;
 
 }
 
-#ishraq {
+#ishraq-bg {
     background-color: #fae9ec;
+}
+
+#ishraq {
+    
     margin-top: auto;
+    margin-right: 0;
     padding: 1px;
+    
 }
 
 #tj-img{
