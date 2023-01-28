@@ -8,4 +8,4 @@ HTML
 CSS
 
 ## Site Link:
-[[https://project01w1.netlify.app/|ss]]
+https://project01w1.netlify.app/
