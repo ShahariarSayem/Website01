@@ -1,0 +1,75 @@
+.ggrid {
+  display: grid;
+  font-family: Arial, Helvetica, sans-serif;
+  align-content: center;
+  gap: 1rem;
+  grid-template-columns: auto auto auto;
+  padding-left: 17%;
+  padding-right: 5%;
+}
+
+.gg1 {
+  background-color: #ebf4fa;
+  border-radius: 8%;
+  padding: 50px;
+  text-align: center;
+}
+
+.gg2 {
+  background-color: #fae9ec;
+  border-radius: 8%;
+  padding: 50px;
+  text-align: center;
+}
+
+.gg3 {
+  background-color: #fde4c1;
+  border-radius: 8%;
+  padding: 50px;
+  text-align: center;
+}
+
+#pokeball {
+  padding-top: 0%;
+  margin-top: -3px;
+  height: 80px;
+  animation: rotation 3s infinite linear;
+}
+
+body {
+  margin-left: -6%;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+.fantastic-four {
+  text-underline-offset: 10px;
+  text-decoration-style: solid;
+  text-decoration-color: black;
+  text-decoration-thickness: 3px;
+  text-align: center;
+  margin-left: 6%;
+  -webkit-text-stroke-width: 2.5px;
+  -webkit-text-stroke-color: black;
+  color: ;
+  font-size: 6rem;
+  padding-top: 1.5%;
+  padding-bottom: 2%;
+}
+
+section {
+  width: 1910px;
+  min-width: 1900px;
+  max-width: 1920px;
+  height: fit-content;
+}
+
+.bgcolors {
+  width: 100%;
+}
